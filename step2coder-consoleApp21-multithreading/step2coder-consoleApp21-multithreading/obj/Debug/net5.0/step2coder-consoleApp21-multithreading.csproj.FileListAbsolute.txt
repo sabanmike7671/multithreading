@@ -1,0 +1,15 @@
+C:\Users\FP2402381\source\repos\step2coder-consoleApp21-multithreading\step2coder-consoleApp21-multithreading\obj\Debug\net5.0\step2coder-consoleApp21-multithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FP2402381\source\repos\step2coder-consoleApp21-multithreading\step2coder-consoleApp21-multithreading\obj\Debug\net5.0\step2coder-consoleApp21-multithreading.AssemblyInfoInputs.cache
+C:\Users\FP2402381\source\repos\step2coder-consoleApp21-multithreading\step2coder-consoleApp21-multithreading\obj\Debug\net5.0\step2coder-consoleApp21-multithreading.AssemblyInfo.cs
+C:\Users\FP2402381\source\repos\step2coder-consoleApp21-multithreading\step2coder-consoleApp21-multithreading\obj\Debug\net5.0\step2coder-consoleApp21-multithreading.csproj.CoreCompileInputs.cache
+C:\Users\FP2402381\source\repos\step2coder-consoleApp21-multithreading\step2coder-consoleApp21-multithreading\bin\Debug\net5.0\step2coder-consoleApp21-multithreading.exe
+C:\Users\FP2402381\source\repos\step2coder-consoleApp21-multithreading\step2coder-consoleApp21-multithreading\bin\Debug\net5.0\step2coder-consoleApp21-multithreading.deps.json
+C:\Users\FP2402381\source\repos\step2coder-consoleApp21-multithreading\step2coder-consoleApp21-multithreading\bin\Debug\net5.0\step2coder-consoleApp21-multithreading.runtimeconfig.json
+C:\Users\FP2402381\source\repos\step2coder-consoleApp21-multithreading\step2coder-consoleApp21-multithreading\bin\Debug\net5.0\step2coder-consoleApp21-multithreading.runtimeconfig.dev.json
+C:\Users\FP2402381\source\repos\step2coder-consoleApp21-multithreading\step2coder-consoleApp21-multithreading\bin\Debug\net5.0\step2coder-consoleApp21-multithreading.dll
+C:\Users\FP2402381\source\repos\step2coder-consoleApp21-multithreading\step2coder-consoleApp21-multithreading\bin\Debug\net5.0\step2coder-consoleApp21-multithreading.pdb
+C:\Users\FP2402381\source\repos\step2coder-consoleApp21-multithreading\step2coder-consoleApp21-multithreading\obj\Debug\net5.0\step2coder-consoleApp21-multithreading.dll
+C:\Users\FP2402381\source\repos\step2coder-consoleApp21-multithreading\step2coder-consoleApp21-multithreading\obj\Debug\net5.0\refint\step2coder-consoleApp21-multithreading.dll
+C:\Users\FP2402381\source\repos\step2coder-consoleApp21-multithreading\step2coder-consoleApp21-multithreading\obj\Debug\net5.0\step2coder-consoleApp21-multithreading.pdb
+C:\Users\FP2402381\source\repos\step2coder-consoleApp21-multithreading\step2coder-consoleApp21-multithreading\obj\Debug\net5.0\step2coder-consoleApp21-multithreading.genruntimeconfig.cache
+C:\Users\FP2402381\source\repos\step2coder-consoleApp21-multithreading\step2coder-consoleApp21-multithreading\obj\Debug\net5.0\ref\step2coder-consoleApp21-multithreading.dll

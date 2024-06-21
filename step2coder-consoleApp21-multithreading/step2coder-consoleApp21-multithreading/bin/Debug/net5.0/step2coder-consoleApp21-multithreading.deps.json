@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "step2coder-consoleApp21-multithreading/1.0.0": {
+        "runtime": {
+          "step2coder-consoleApp21-multithreading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "step2coder-consoleApp21-multithreading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
